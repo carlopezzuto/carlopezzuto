@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
+
 <h3 align="center">Talent Sourcing Specialist</h3>
 
-<!-- HTML -->
-<img align="center" src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="Jokes Card" />
+<div align="center">
 
+  <img src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="Jokes Card">
 
+</div>
 
-- 🔭 I’m currently working on [gno.land](https://github.com/gnolang)
+<p align="center">- 🔭 I’m currently working on <a href="https://github.com/gnolang">gno.land</a></p>
 
-- 👯 I’m looking to hire **Golang Engineer**
+<p align="center">- 👯 I’m looking to hire <b>Golang Engineer</b></p>
 
-- 💬 Ask me about **OSINT, Sourcing**
+<p align="center">- 💬 Ask me about <b>OSINT, Sourcing</b></p>
 
-- 📫 How to reach me **carlo.pezzuto[at]gmail.com**
+<p align="center">- 📫 How to reach me <b>carlo.pezzuto[at]gmail.com</b></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlopezzuto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlopezzuto" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/carlopezzuto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlopezzuto" height="30" width="40">
+  </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlopezzuto&show_icons=true&locale=en" alt="carlopezzuto" /></p>
-
 
 <!--
 **carlopezzuto/carlopezzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

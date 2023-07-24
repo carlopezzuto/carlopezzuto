@@ -2,9 +2,9 @@
 <h3 align="center">Talent Sourcing Specialist</h3>
 
 <!-- HTML -->
-<img src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="Jokes Card" />
+<img align="center" src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="Jokes Card" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlopezzuto&label=Profile%20views&color=0e75b6&style=flat" alt="carlopezzuto" /> </p>
+
 
 - 🔭 I’m currently working on [gno.land](https://github.com/gnolang)
 

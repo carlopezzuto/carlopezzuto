@@ -8,13 +8,11 @@
 
 </div>
 
-<p align="center">- 🔭 I’m currently working on <a href="https://github.com/gnolang">gno.land</a></p>
+<p align="center">- 🔭 I’m currently working on TBA
 
-<p align="center">- 👯 I’m looking to hire <b>Golang Engineer</b></p>
+<p align="center">- 💬 Ask me about <b>OSINT, sourcing, recruiting</b></p>
 
-<p align="center">- 💬 Ask me about <b>OSINT, Sourcing</b></p>
-
-<p align="center">- 📫 How to reach me <b>carlo.pezzuto[at]gmail.com</b></p>
+<p align="center">- 📫 How to reach me <b>github.sprang182[at]simplelogin.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -37,4 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

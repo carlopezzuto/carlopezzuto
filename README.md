@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 
-<h3 align="center">Talent Sourcing Specialist</h3>
+<h3 align="center">Talent Acquisition Partner</h3>
 
 <div align="center">
 

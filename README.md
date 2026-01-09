@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="[https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif](https://giphy.com/gifs/season-14-the-simpsons-14x11-3orif98JuDVUWbgIog)" alt="Jokes Card">
+  <img src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="simpson-hires">
 
 </div>
 

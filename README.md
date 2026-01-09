@@ -13,13 +13,8 @@
 
 <p align="center">- 📫 How to reach me <b>github.sprang182[at]simplelogin.com</b></p>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/carlopezzuto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlopezzuto" height="30" width="40">
-  </a>
-</p>
+<h3 align="center">Connect with me:</h3> <a href="https://linkedin.com/in/carlopezzuto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlopezzuto" height="30" width="40">
+</a>
 
 <!--
 **carlopezzuto/carlopezzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 
-<h3 align="center">Talent Acquisition Partner</h3>
+<h3 align="center">Talent Acquisition Partner - Recruiting Nerd</h3>
 
 <div align="center">
 
-  <img src="https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif" alt="Jokes Card">
+  <img src="[https://media.tenor.com/h0KhUt_WLJUAAAAC/i-want-to-recruit-you-gwendoline.gif](https://giphy.com/gifs/season-14-the-simpsons-14x11-3orif98JuDVUWbgIog)" alt="Jokes Card">
 
 </div>
 
-<p align="center">- 🔭 I’m currently working on TBA
-
-<p align="center">- 💬 Ask me about <b>OSINT, sourcing, recruiting</b></p>
+<p align="center">- 🔭 I’m currently working on a new HR/Rec Tech
 
 <p align="center">- 📫 How to reach me <b>github.sprang182[at]simplelogin.com</b></p>
 
